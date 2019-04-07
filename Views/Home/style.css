@@ -1,0 +1,181 @@
+#app {
+}
+
+body {
+}
+p.distanz{
+    float: left;
+}
+
+div.video{
+    background-color: #ff5d65;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px 5px 5px 0px black;
+    color: white;
+    padding: 1%;
+    width: 30%;
+    float: left;
+    margin-top: 1%;
+    font-weight: bolder;
+    text-align: center;
+}
+
+div.mapSlogan{
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    width: 98%;
+    background-color: #ff5d65;
+    border-radius: 10px 10px 0px 0px;
+    box-shadow: 0px 5px 5px 0px black;
+    color: white;
+    padding: 1%;
+}
+
+div.weather {
+    float: left;
+    background-color: #ff5d65;
+    font-weight: bolder;
+    display: inline-block;
+    margin-top: 1%;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px 5px 5px 0px black;
+    color: white;
+    padding: 20px;
+    width: 20%;
+}
+
+div.map{
+margin-top: 1%;
+    box-shadow: 5px 5px 5px 5px black;
+    cursor: url("https://img.icons8.com/color/48/000000/map-pin.png"), auto;
+
+}
+div.distanzMap{
+    float: left;
+    margin: 1%;
+}
+div.applet{
+}
+
+
+
+div.newsInner{
+border-bottom: 2px solid #ff6d75 ;
+margin-top: 1%;
+}
+
+div.news{
+margin: 1%;
+float: left;
+background-color: #ff5d65;
+font-weight: bolder;
+display: inline-block;
+border-radius: 10px 10px 10px 10px;
+box-shadow: 0px 5px 5px 0px black;
+text-align: center;
+padding: 1%;
+    color: white;
+    width: 40%;
+
+
+}
+
+span.todayWeather{
+text-align: center;
+font-size: 170%;
+font-family: "Helvetica Neue";
+font-weight: lighter;
+
+}
+div.wind{
+float: left;
+}
+div.clouds{
+float: right;
+margin-right: 5%;
+}
+
+div.sunrise{
+float: left;
+margin-left: 5%;
+margin-top: 10%;
+}
+
+div.sunset{
+margin-left: 50%;
+margin-top: 20.5%;
+}
+
+span.windSpeed{
+float: left;
+margin-top: 15%;
+font-weight: lighter;
+}
+
+span.cloudAmount{
+float: right;
+font-weight: lighter;
+margin-top: 24%;
+}
+
+span.sunriseTime{
+float: left;
+font-weight: lighter;
+margin-top: 22%;
+}
+
+span.sunsetTime{
+float: right;
+margin-top: 19%;
+font-weight: lighter;
+}
+
+
+
+span.weatherCelsius{
+text-align: center;
+font-size: 500%;
+font-family: "Helvetica Neue";
+font-weight: bold;
+}
+
+
+
+h1 {
+    color: white;
+    font-size: 35px;
+    font-family: Inconsolata;
+}
+
+.header {
+    padding: 20px;
+    text-align: center;
+    background: black;
+    color: white;
+    font-size: 35px;
+    width: 98%;
+    margin-left: -8px;
+    margin-top: -8px;
+    font-family: Inconsolata;
+    cursor: url("https://img.icons8.com/color/48/000000/map-pin.png"), auto;
+}
+
+.headerInput {
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 3px solid white;
+    width: 25%;
+    color: white;
+    font-size: 35px;
+    font-family: Inconsolata;
+    cursor: url("https://img.icons8.com/color/48/000000/text-cursor.png"), auto;
+    font-weight: bold;
+}
+
+img {
+    width: 150px;
+    height: 80px;
+}
+
