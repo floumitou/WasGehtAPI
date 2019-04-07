@@ -59,7 +59,6 @@ C:\Users\Flo\source\repos\WasGehtAPI\WasGehtAPI\bin\Antlr3.Runtime.pdb
 C:\Users\Flo\source\repos\WasGehtAPI\WasGehtAPI\bin\System.Diagnostics.DiagnosticSource.xml
 C:\Users\Flo\source\repos\WasGehtAPI\WasGehtAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
 C:\Users\Flo\source\repos\WasGehtAPI\WasGehtAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Flo\source\repos\WasGehtAPI\WasGehtAPI\obj\Debug\WasGehtAPI.csprojAssemblyReference.cache
 C:\Users\Flo\source\repos\WasGehtAPI\WasGehtAPI\obj\Debug\WasGehtAPI.csproj.CoreCompileInputs.cache
 C:\Users\Flo\source\repos\WasGehtAPI\WasGehtAPI\obj\Debug\WasGehtAPI.csproj.CopyComplete
 C:\Users\Flo\source\repos\WasGehtAPI\WasGehtAPI\obj\Debug\WasGehtAPI.dll
